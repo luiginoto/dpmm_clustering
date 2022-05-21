@@ -14,6 +14,6 @@ Bayesian nonparametric models have gained widespread popularity for many machine
 </p>
 
 <p float="left">
-  <img src="/images/clustering_multivariate.png" width="300" />
-  <img src="/images/emp_distr_clusters_multivariate.png" width="355" /> 
+  <img src="/images/clustering_multivariate.png" width="360" />
+  <img src="/images/emp_distr_clusters_multivariate.png" width="405" /> 
 </p>
